@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://toddzal.github.io/csb-em9t2h/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://toddzal.github.io/csb-em9t2h/static/js/main.9b54606f.chunk.js",
+    "main.js.map": "https://toddzal.github.io/csb-em9t2h/static/js/main.9b54606f.chunk.js.map",
+    "runtime-main.js": "https://toddzal.github.io/csb-em9t2h/static/js/runtime-main.a4256f63.js",
+    "runtime-main.js.map": "https://toddzal.github.io/csb-em9t2h/static/js/runtime-main.a4256f63.js.map",
+    "static/js/2.66161328.chunk.js": "https://toddzal.github.io/csb-em9t2h/static/js/2.66161328.chunk.js",
+    "static/js/2.66161328.chunk.js.map": "https://toddzal.github.io/csb-em9t2h/static/js/2.66161328.chunk.js.map",
+    "index.html": "https://toddzal.github.io/csb-em9t2h/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://toddzal.github.io/csb-em9t2h/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.66161328.chunk.js.LICENSE.txt": "https://toddzal.github.io/csb-em9t2h/static/js/2.66161328.chunk.js.LICENSE.txt",
+    "static/media/short_scale_bass_black.84d2df03.png": "https://toddzal.github.io/csb-em9t2h/static/media/short_scale_bass_black.84d2df03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4256f63.js",
+    "static/js/2.66161328.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9b54606f.chunk.js"
+  ]
+}
